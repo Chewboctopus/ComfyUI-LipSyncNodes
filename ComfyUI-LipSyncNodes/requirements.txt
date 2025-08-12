@@ -1,4 +1,0 @@
-Pillow>=9.5.0
-imageio-ffmpeg>=0.4.9
-pydub>=0.25.1
-mutagen>=1.47.0
